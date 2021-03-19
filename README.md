@@ -1,5 +1,5 @@
-# Cordova Build Tools:
-Docker image to setup cordova, android sdk and java build tools ...
+# Cordova Android:
+Docker image to build your cordova app for android ...
 
 
 ### Create the container:
